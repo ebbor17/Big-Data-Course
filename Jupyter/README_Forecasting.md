@@ -50,6 +50,23 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 ![SP8](https://user-images.githubusercontent.com/38683024/72538353-00e0f900-387e-11ea-96b5-33663d4a2339.PNG)
 
 * Nu we al deze informatie weten gaan we onze voorspelling maken
+![SP9](https://user-images.githubusercontent.com/38683024/72538837-b01dd000-387e-11ea-9dd3-e14ed42030cd.PNG)
+
+* Omdat er veel meer gegevens zijn dan alleen die van meubelen nemen we die van kantoorartikelen erbij
+![SP10](https://user-images.githubusercontent.com/38683024/72538958-e52a2280-387e-11ea-9ac6-7ae7893c117e.PNG)
+
+* We vergelijken de sales van meubelen met die van kantoorartikelen
+![SP11](https://user-images.githubusercontent.com/38683024/72539085-130f6700-387f-11ea-8eb4-be598ac3cc6d.PNG)
+
+* Met Fbprophet, een forcasting tool maken we een voorspelling van zowel meubelen als van kantoorartikelen
+![SP12](https://user-images.githubusercontent.com/38683024/72539602-d1cb8700-387f-11ea-8519-fce12394db4f.PNG)
+![SP13](https://user-images.githubusercontent.com/38683024/72539626-e019a300-387f-11ea-9c07-f62929385154.PNG)
+
+* Nu we deze voorspellingen hebben gaan we meubelen met kantoorartikelen vergelijken over de jaren heen samen met hun voorspellingen.
+![SP14](https://user-images.githubusercontent.com/38683024/72539727-10614180-3880-11ea-907e-69691ee5e5d2.PNG)
+![SP15](https://user-images.githubusercontent.com/38683024/72539796-2ff86a00-3880-11ea-9553-df3ccec1b237.PNG)
+
+
 
 
 
