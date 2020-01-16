@@ -20,10 +20,10 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 * De Dataset bevat naast sales en dates nog andere data deze gebruiken we niet. Daarom droppen we de overbodige data.
 ![SP3](https://user-images.githubusercontent.com/38683024/72527975-44316c80-386a-11ea-8f08-b0b262f1529d.PNG)
 
-* Om een beter overzicht te geven van de data die ik gebruik is hier een grafiek te zien van de sales over de jaren heen.
+* Omdat de dataset de sales van verschillende dagen per maand weergeeft nemen we het gemiddelede per maand, dit maakt rekenen en intrepreteren gemakkelijker.
 ![SP4](https://user-images.githubusercontent.com/38683024/72528154-af7b3e80-386a-11ea-9daa-d29edd0e5bde.PNG)
 
-*
+* 
 
 
 
