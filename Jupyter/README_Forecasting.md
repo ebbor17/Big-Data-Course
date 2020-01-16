@@ -23,7 +23,11 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 * Omdat de dataset de sales van verschillende dagen per maand weergeeft nemen we het gemiddelede per maand, dit maakt rekenen en intrepreteren gemakkelijker.
 ![SP4](https://user-images.githubusercontent.com/38683024/72528154-af7b3e80-386a-11ea-9daa-d29edd0e5bde.PNG)
 
-* 
+* In onderstaande afbeelding worden verschillende begrippen getoont die invloed hebben op het voorspellen van onze data.
+  * Observed: de werkelijk gemeten data. (bv.: sales 2017-01-01 -> 2133)
+  * Trend: de Trend die de sales volgen
+  * Seasonality: Hoe hard een bepaalde periode invloed heeft op de data/voorspelde data (bv.: tijdens de zomer worden er meer ijsjes verkocht dus seasonality is hoger)
+![SP4 2](https://user-images.githubusercontent.com/38683024/72531273-6a0e3f80-3871-11ea-9477-f0cb40705ada.PNG)
 
 
 
