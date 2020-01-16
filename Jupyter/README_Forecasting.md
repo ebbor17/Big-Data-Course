@@ -41,8 +41,15 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 ![SP6](https://user-images.githubusercontent.com/38683024/72536358-6206cd80-387a-11ea-9a3e-1352bd22797a.PNG)
 
 * Om the checken of onze code tot nu toe foutloos werkt, laten we een voorspelling maken vanaf 2017 en vergelijken we die met data die we al hebben uit 2017
+  * We zien dat onze observed (werkelijk gemeten data) en onze voorspelde data ongeveer overeen komen. Exact hetzelfde zullen deze twee nooit zijn.
 ![SP7](https://user-images.githubusercontent.com/38683024/72536504-a85c2c80-387a-11ea-89f9-eac2b79bf825.PNG)
 
+* Berekenen van MSE (Mean square error) en RSME (root mean square error)
+  * De MSE verteld ons het aantal keren onze voorspelling afweek van de actuele waardes
+  * De RSME verteld ons het gemiddelde van de afwijking
+![SP8](https://user-images.githubusercontent.com/38683024/72538353-00e0f900-387e-11ea-96b5-33663d4a2339.PNG)
+
+* Nu we al deze informatie weten gaan we onze voorspelling maken
 
 
 
