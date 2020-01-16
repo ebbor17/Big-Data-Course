@@ -36,7 +36,10 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 
 ![SP5](https://user-images.githubusercontent.com/38683024/72532998-aabb8800-3874-11ea-824a-2646094c1538.PNG)
 
-  
+* Implementeren van het gekoze ARIMA model.
+* In onderstaande afbeelding worden de residual values voorgesteld op verschillende manieren.
+
+
 
 
 
