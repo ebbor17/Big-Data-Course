@@ -38,6 +38,10 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 
 * Implementeren van het gekoze ARIMA model.
 * In onderstaande afbeelding worden de residual values voorgesteld op verschillende manieren.
+![SP6](https://user-images.githubusercontent.com/38683024/72536358-6206cd80-387a-11ea-9a3e-1352bd22797a.PNG)
+
+* Om the checken of onze code tot nu toe foutloos werkt, laten we een voorspelling maken vanaf 2017 en vergelijken we die met data die we al hebben uit 2017
+![SP7](https://user-images.githubusercontent.com/38683024/72536504-a85c2c80-387a-11ea-89f9-eac2b79bf825.PNG)
 
 
 
