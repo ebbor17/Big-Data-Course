@@ -26,8 +26,14 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 * In onderstaande afbeelding worden verschillende begrippen getoont die invloed hebben op het voorspellen van onze data.
   * Observed: de werkelijk gemeten data. (bv.: sales 2017-01-01 -> 2133)
   * Trend: de Trend die de sales volgen
-  * Seasonality: Hoe hard een bepaalde periode invloed heeft op de data/voorspelde data (bv.: tijdens de zomer worden er meer ijsjes verkocht dus seasonality is hoger)
+  * Seasonality: Hoe hard een bepaalde periode invloed heeft op de data/voorspelde data (bv.: tijdens de zomer worden er meer ijsjes verkocht dus seasonality is hoger.)
+  * Residual: Het verschil tussen de gemeten data en de voorspelde data. (bv.: gemeten sales 2017-01-01 -> 2133 MAAR voorspelling sales 2017-01-01 -> 3000 DUS residual = -867
 ![SP4 2](https://user-images.githubusercontent.com/38683024/72531273-6a0e3f80-3871-11ea-9477-f0cb40705ada.PNG)
+
+* Voorspellen met ARIMA (Autoregressive integrated moving average)
+  * ARIMA heeft 3 parameters (seaonality, trend, noise) (Lees: Noise = Residual)
+  * Nu gaan we zoeken welk models de laagste AIC waarde hebben. AIC schat het relatieve aantal aan waarde/informatie die verloren gaat met het model. dus hoe LAGER die AIC hoe BETER het model.
+  
 
 
 
