@@ -32,7 +32,10 @@ Als extra heb ik ook in dit project verschillende grafieken nagemaakt die ook ti
 
 * Voorspellen met ARIMA (Autoregressive integrated moving average)
   * ARIMA heeft 3 parameters (seaonality, trend, noise) (Lees: Noise = Residual)
-  * Nu gaan we zoeken welk models de laagste AIC waarde hebben. AIC schat het relatieve aantal aan waarde/informatie die verloren gaat met het model. dus hoe LAGER die AIC hoe BETER het model.
+  * Nu gaan we zoeken welk models de laagste AIC waarde hebben. AIC schat het relatieve aantal aan waarde/informatie die verloren gaat met het model. dus hoe LAGER die AIC hoe BETER het model. In onderstaande afbeelding is te zien dat de laagst voorkomende AIC waarde 297,78 is, dus ons "beste" model is "ARIMA(1, 1, 1)x(1, 1, 0, 12)12 - AIC:297.7875439553055"
+
+![SP5](https://user-images.githubusercontent.com/38683024/72532998-aabb8800-3874-11ea-824a-2646094c1538.PNG)
+
   
 
 
